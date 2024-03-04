@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "EcoPreserva",
+    "paragraph": "Tiene como objetivo abordar la problemática de la desprotección de zonas verdes y el riesgo de incendios forestales."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "La plataforma web \"EcoPreserva\" tiene como objetivo abordar la problemática de la desprotección de zonas verdes y el riesgo de incendios forestales en San José del Cabo. Esta iniciativa busca promover la conciencia ambiental y la participación ciudadana para preservar los entornos naturales, especialmente en áreas propensas a incendios debido a la acumulación de residuos.\n",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+     "Sensibilización sobre la importancia de la preservación ambiental.",
+     "Reducción de prácticas irresponsables que contribuyen a incendios forestales.",
+     "Participación activa de la comunidad en la preservación de zonas verdes.",
+     "Mayor capacidad de respuesta a situaciones de riesgo ambiental."
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -20,81 +20,71 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r1.jpeg",
+      "smallImage": "img/portfolio/r1.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r2.jpg",
+      "smallImage": "img/portfolio/r2.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r3.jpg",
+      "smallImage": "img/portfolio/r3.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r4.jpg",
+      "smallImage": "img/portfolio/r4.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r5.jpg",
+      "smallImage": "img/portfolio/r5.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r6.jpg",
+      "smallImage": "img/portfolio/r6.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r7.jpg",
+      "smallImage": "img/portfolio/r7.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r8.jpg",
+      "smallImage": "img/portfolio/r8.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "EcoReserva",
+      "largeImage": "img/portfolio/r9.jpeg",
+      "smallImage": "img/portfolio/r9.jpeg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-book",
+      "name": "Educación Ambiental Interactiva\n",
+      "text": "Contenido educativo sobre la importancia de la preservación de zonas verdes y los riesgos asociados con la contaminación y prácticas irresponsables."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Informes de Riesgos Ambientales",
+      "text": "Informes sobre prácticas riesgosas, acumulación de residuos o cualquier actividad potencialmente dañina en las zonas verdes."
+    },
+    {
+      "icon": "fa fa-map-marker",
+      "name": "Mapa de Zonas Verdes\n",
+      "text": "zonas verdes y áreas de importancia ambiental en San José del Cabo, destacando aquellas que son más vulnerables."
+    },
+    {
+      "icon": "fa fa-calendar",
+      "name": "Calendario de Eventos Ambientales",
+      "text": "Anuncios de actividades comunitarias, limpiezas programadas y eventos educativos para fomentar la participación activa."
     }
   ],
   "Testimonials": [
@@ -130,55 +120,52 @@
     }
   ],
   "Team": [
+
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/02.jpg",
+      "name": "Abraham Jimenez",
+      "job": "Desarrollador"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Carlos Amador",
+      "job": "Product Owner"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/02.jpg",
+      "name": "Osvaldo Gonzales",
+      "job": "Scrum Master"
     }
+
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "Colinas San Luis 17, Luis Donaldo Colosio, 23444 San José del Cabo, B.C.S. ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "contacto@ecoreserva.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-tree",
+      "title": "Amigable con el medio ambiente",
+      "text": ""
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovador",
+      "text": ""
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Sin fines de lucro",
+      "text": ""
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-tablet",
+      "title": "Digital",
+      "text": ""
     }
   ]
 }
